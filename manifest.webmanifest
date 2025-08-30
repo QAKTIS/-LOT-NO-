@@ -1,6 +1,6 @@
 {
-  "name": "COA Viewer",
-  "short_name": "COA",
+  "name": "ระบบค้นหาข้อมูล LOT NO",
+  "short_name": "ระบบค้นหาข้อมูล LOT NO",
   "start_url": "./",
   "display": "standalone",
   "background_color": "#ffffff",
